@@ -41,7 +41,7 @@ async function chatgptAnswer() {
         return "";
     } catch (error) {
         $log(error);
-        return "";1A1233F08A5DDC72
+        return "";
     }
 }
 
